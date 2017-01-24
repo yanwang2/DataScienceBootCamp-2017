@@ -1,5 +1,7 @@
 # DataScienceBootCamp-2017
 
+[Organizer & Presenters Sign Up](https://dsbc2017.slack.com/x-132129176709-131973376163/signup)
+
 ## Ideas for Sessions: ##
 
 ### Day 1 ###
