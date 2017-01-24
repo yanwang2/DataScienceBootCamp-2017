@@ -2,16 +2,13 @@
 
 ## Ideas for Sessions: ##
 
-### Day 1 - Statistical Inference & Learning ###
+### Day 1 ###
 
-#### Session 1: Basic Level - 1 Hour ####
+#### Session 1: Basic Level - 2 Hours ####
 
 1. Version Control with Git and GitHub
   1. Basics
- 
-#### Session 2: Basic Level - 1 Hour ####
-
-1. Jupyter Notebooks:
+2. Jupyter Notebooks:
   1. Basics
   2. Cell Magics
   3. Creating pdf files:
@@ -19,30 +16,61 @@
     2. Academic Papers
     3. Assignements
   4. RevealJs Presentations
+3. Intro to Python;
+  1. Basics - Similar to learn python in y minutes
   
-#### Session 3: Learn Python (3) or R in an Hour ####
+#### Break - 1 Hour ####
 
-#### Session 4: ScPy Stack / Similar in R - 1 Hour ####
+#### Session 2: Introduction to Titanic Classification Problem & SciPy Stack - 2 Hours ####
 
-1. NumPy
-2. SciPy
-3. Pandas
-4. Matplotlib & Seaborn
-5. SymPy ( Maybe )
+1. Introduce the Titanic Classification Problem:
+  1. Objectives
+  2. Dependent Variables
+  3. Independent Variables
+2. Using this problem to learn about the SciPy Stack
+  1. Pandas & Numpy- Manipulating Data
+  2. Matplotlib & Seaborn - Data Visualization
+3. Linear Models / Logistic Regression ( as a black box ) using Scikit Learn
+4. First Submission to Kaggle
   
-#### Session 5: Beginners Titanic Classification Problem  - 1 Hour ####
+#### Break - 1 Hour ####
 
-1. Linear Models with Scikit Learn
-2. Decision Tree with Scikit Learn
-3. Submission 1
+#### Session 3: Intermediate Titanic Classification Problem  - 2 Hours ####
 
-#### Session 6: Intermideate Titanic Classification Problem  - 1 Hour ####
+1. Cross Validation
+2. Decision Tree ( as a black box ) using Scikit Learn
+3. Ensemble Models ( RF & GBRT as a black box ) with Scikit Learn
+4. Ensemble Models with XGBoost ( If time is available )
+5. Second Submission to Kaggle
 
-1. Ensemble Models with Scikit Learn
-2. Ensemble Models with XGBoost
-3. Submission 2
+### Day 2 ###
 
-#### Session 7: Advanced Titanic Classification Problem  - 1 Hour ####
+#### Session 4: Advanced Titanic Classification Problem  - 2 Hours ####
 
-1. Deep Nets with TensorFlow + Theano / Keras / MxNet
-2. Submission 3
+1. Deep Nets ( as a black box ) with TensorFlow + Theano / Keras / MxNet
+2. Third Submission to Kaggle
+  
+#### Break - 1 Hour ####
+
+#### Session 5: Titanic Classification Problem with R - 2 Hours ####
+
+1. Introduce R Studio, R Markdown, R Presentation
+2. Introduce the Titanic Classification Problem again but in Short
+  1. Objectives
+  2. Dependent Variables
+  3. Independent Variables
+3. Using this problem to learn about R
+  1. Manipulating Data
+  2. ggplot2 - Data Visualization
+3. Linear Models / Logistic Regression ( as a black box ) using R
+4. First Submission to Kaggle using R
+  
+#### Break - 1 Hour ####
+
+#### Session 6: Intermediate Titanic Classification Problem  - 2 Hour ####
+
+1. Cross Validation
+2. Decision Tree ( as a black box ) using R
+3. Ensemble Models ( RF & GBRT as a black box ) with R
+4. Ensemble Models with XGBoost ( If time is available )
+5. Second Submission to Kaggle using R
