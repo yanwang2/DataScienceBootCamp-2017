@@ -67,7 +67,7 @@
   
 #### Break - 1 Hour ####
 
-#### Session 6: Intermediate Titanic Classification Problem  - 2 Hour ####
+#### Session 6: Intermediate Titanic Classification Problem with R - 2 Hour ####
 
 1. Cross Validation
 2. Decision Tree ( as a black box ) using R
