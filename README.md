@@ -9,17 +9,23 @@
 #### Session 1: Introduction to Python and Titanic Classification Problem - 2.5 Hours ####
 
 #### 1a: Basic Level ####
+
 1. Version Control with Git and GitHub
   1. Basics
 2. Intro to Python;
   1. Basics - Similar to learn python in y minutes
+
 #### 1b: Introduction to Titanic Classification Problem ####
+
 3. Introduce the Titanic Classification Problem:
   1. Objectives
   2. Dependent Variables
   3. Independent Variables
+
 #### Break - 15 mins ####
+
 #### 1c: Introduction to SciPy Stack ####
+
 4. Using this problem to learn about the SciPy Stack
   1. Pandas & Numpy- Manipulating Data
   2. Matplotlib & Seaborn - Data Visualization
